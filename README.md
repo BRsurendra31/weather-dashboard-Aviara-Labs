@@ -40,7 +40,7 @@ npm install
 ```bash
 npm install -g json-server
 ```
-This will start a mock backend at http://localhost:5000 for managing favorite cities.
+This will start a mock backend at http://localhost:5000 for managing favorite cities. <br>
 4. Start the application:
 ```bash
 npm start
